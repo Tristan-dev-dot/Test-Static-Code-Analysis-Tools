@@ -10,6 +10,7 @@
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview",
+    "lab:report": "node src/lab/demo-report.js",
     "test": "vitest run",
     "coverage": "vitest run --coverage"
   },
