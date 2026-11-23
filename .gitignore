@@ -1,0 +1,9 @@
+node_modules/
+dist/
+coverage/
+.scannerwork/
+.sonar/
+.env
+.env.*
+*.local
+*.log

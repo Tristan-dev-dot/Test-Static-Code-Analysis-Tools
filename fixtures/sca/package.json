@@ -1,0 +1,9 @@
+{
+  "name": "scanboard-sca-fixture",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Isolated dependency manifest for scanner comparison",
+  "dependencies": {
+    "lodash": "4.17.20"
+  }
+}
